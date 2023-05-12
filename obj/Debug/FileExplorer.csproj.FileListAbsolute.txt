@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\programma\FileExplorer\bin\Debug\FileExplorer.exe.config
+\\Mac\Home\Desktop\programma\FileExplorer\bin\Debug\FileExplorer.exe
+\\Mac\Home\Desktop\programma\FileExplorer\bin\Debug\FileExplorer.pdb
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.exe
+\\Mac\Home\Desktop\programma\FileExplorer\obj\Debug\FileExplorer.pdb
